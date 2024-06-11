@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1718095737567-4e4e5ae276b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2fHx8ZW58MHx8fHx8);
+}
+h1{
+    text-align: right;
+}
+h5{
+    text-align: right;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
